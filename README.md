@@ -115,23 +115,24 @@ To get a local copy up and running follow these simple example steps. -->
 
 ### Prerequisites
 
-python 3.7
-fastai 2.1.4
-fastai2 0.0.30
-fastasi2-extensions 0.0.31
-torch 1.7.0
-jupyter 1.0.0
-numpy 1.19.4 
+<ul>
+  <li> python 3.7 </li>
+  <li> fastai 2.1.4 </li>
+  <li> fastai2 0.0.30 </li>
+  <li> fastasi2-extensions 0.0.31 </li>
+  <li> torch 1.7.0 </li>
+  <li> jupyter 1.0.0 </li>
+  <li> numpy 1.19.4 </li>
+</ul>
 
 ### Installation
 
 Clone the repository: 
-`git clone https:github.com/DaehwanKimLab/Chromosome-ReAD`
+`git clone https:github.com/DaehwanKimLab/Chromosome-ReAD`. \
 
-Prepare dataset: 
-`cd Chromosome-ReAD/resources/feb2021_abclass`
-Perform for each [train, val, test] directories:
-`unzip []`
+Prepare dataset: `cd Chromosome-ReAD/resources/feb2021_abclass`. \
+Perform for each [train, val, test] directories:\
+`unzip []`\
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -145,7 +146,7 @@ The <experiments> directory contains 4 Jupyter notebooks, one for each convoluti
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https:github.com/DaehwanKimLab/Chromosome-ReAD/issues) for a list of proposed features (and known issues.
+See the [open issues](https:github.com/DaehwanKimLab/Chromosome-ReAD/issues) for a list of proposed features (and known issues).
 
 
 
