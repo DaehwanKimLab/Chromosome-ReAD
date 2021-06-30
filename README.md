@@ -157,9 +157,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/and_m_cox) - Andrew.Cox@UTSouthwestern.edu
+Your Name - [@and_m_cox](https://twitter.com/and_m_cox) - Andrew.Cox@UTSouthwestern.edu
 
-Project Link: [https://github.com/DaehwanKimLab/Chromosome-ReAD](https://github.com/DaehwanKimLab/Chromosome-ReAD
+Project Link: [https://github.com/DaehwanKimLab/Chromosome-ReAD](https://github.com/DaehwanKimLab/Chromosome-ReAD)
 
 
 
