@@ -128,11 +128,11 @@ To get a local copy up and running follow these simple example steps. -->
 ### Installation
 
 Clone the repository: 
-`git clone https:github.com/DaehwanKimLab/Chromosome-ReAD`. \
+`git clone https:github.com/DaehwanKimLab/Chromosome-ReAD`. 
 
 Prepare dataset: `cd Chromosome-ReAD/resources/feb2021_abclass`. \
 Perform for each [train, val, test] directories:\
-`unzip []`\
+`unzip []`
 
 <!-- USAGE EXAMPLES -->
 ## Usage
