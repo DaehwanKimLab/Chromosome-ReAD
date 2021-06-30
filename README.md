@@ -93,13 +93,18 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements. -->
 
+Chr
+
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 * [Laravel](https://laravel.com) -->
-
+* [Python](https://www.python.org/)
+* [PyTorch](https://pytorch.org/)
+* [FastAI](https://www.fast.ai/)
+ 
 
 
 <!-- GETTING STARTED -->
@@ -110,13 +115,23 @@ To get a local copy up and running follow these simple example steps. -->
 
 ### Prerequisites
 
-
+python 3.7
+fastai 2.1.4
+fastai2 0.0.30
+fastasi2-extensions 0.0.31
+torch 1.7.0
+jupyter 1.0.0
+numpy 1.19.4 
 
 ### Installation
 
+Clone the repository: 
+`git clone https:github.com/DaehwanKimLab/Chromosome-ReAD`
 
-
-
+Prepare dataset: 
+`cd Chromosome-ReAD/resources/feb2021_abclass`
+Perform for each [train, val, test] directories:
+`unzip []`
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -125,12 +140,12 @@ To get a local copy up and running follow these simple example steps. -->
 
 _For more examples, please refer to the [Documentation](https://example.com)_ -->
 
-
+The <experiments> directory contains 4 Jupyter notebooks, one for each convolutional neural network architecture tested, that can be ran to repeat training network from scratch and inferring on the test set. If you would like to preserve the orginal experimental results but would like to rerun the experiments yourself, simply make a copy a notebook and run the cells in the duplicate. 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-<!-- See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues). -->
+See the [open issues](https:github.com/DaehwanKimLab/Chromosome-ReAD/issues) for a list of proposed features (and known issues.
 
 
 
