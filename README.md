@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/DaehwanKimLab/Chromosome-ReAD">
-    <img src="images/ReAD_logo.png" alt="Logo" width="80" height="80">
+    <img src="images/ReAD.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Chromosome-ReAD</h3>
