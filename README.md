@@ -132,14 +132,16 @@ To get a local copy up and running follow these simple example steps. -->
   <li> numpy 1.19.4 </li>
 </ul>
 
+A dataset of individual chromosome images. 
+
 ### Installation
 
 Clone the repository: 
 `git clone https:github.com/DaehwanKimLab/Chromosome-ReAD`. 
 
-Prepare dataset: `cd Chromosome-ReAD/resources/feb2021_abclass`. \
+<!-- Prepare dataset: `cd Chromosome-ReAD/resources/feb2021_abclass`. \
 Perform for each [train, val, test] directories:\
-`unzip []`
+`unzip []` --> 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
