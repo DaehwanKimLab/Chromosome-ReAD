@@ -36,14 +36,14 @@
   <p align="center">
     A deep convolutional neural network for Recurrent Abnormality Detection in chromosomes!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/DaehwanKimLab/Chromosome-ReAD"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/DaehwanKimLab/Chromosome-ReAD">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/DaehwanKimLab/Chromosome-ReAD">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/DaehwanKimLab/Chromosome-ReAD">Request Feature</a>
   </p>
 </p>
 
