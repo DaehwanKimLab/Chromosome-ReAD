@@ -80,7 +80,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 <!-- There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -93,7 +93,14 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements. -->
 
-Chr
+There are many great neural networks for classifying chromosomes, however, a great deal of clinical cytogenetics involves analyzing samples with abnormal chromosomes. So, we created Chromosome Recurrent Abnormality Detector (ReAD) to automatically classify many important abnormalities found in patients with blood cancer. 
+
+Here's why: 
+* Currently, cytogeneticists spend the majority of their time manually classifying chromosomes but can only inspect a tiny fraction of the cells collected from imaging. 
+* Recurrent abnormalities can heavily inform the diagnosis, prognisis, and treatment plan. 
+* An automated classifier could screen hundreds of cells for abnormalities and flag cells requiring further inspection. 
+
+Certainly, this neural network does not cover all types of recurrent abnormalities in hematopathology. So I'll be updating the model in the near future to incorporate more. If you have your own dataset, you may also suggest changes by forking this repo and creating a pull request or opening an issue. 
 
 ### Built With
 
