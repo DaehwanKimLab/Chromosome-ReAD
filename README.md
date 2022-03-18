@@ -53,7 +53,7 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href=https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab822/6454943>Manuscript</a>
+    <li><a href="#manuscript">Manuscript</a>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
@@ -76,7 +76,9 @@
   </ol>
 </details>
 
-
+<!-- MANUSCRIPT --> 
+## Manuscript
+This work has been published by BMC Bioinformatics. Please check out [the paper](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab822/6454943) and reach out with any questions or comments! 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
