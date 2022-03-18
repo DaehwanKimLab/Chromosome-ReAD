@@ -53,6 +53,7 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
+    <li><a href=https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab822/6454943>Manuscript</a>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
